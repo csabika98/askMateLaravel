@@ -1,2 +1,0 @@
-# askMateLaravel
-AskMate (Laravel + React)
